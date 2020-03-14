@@ -2,4 +2,4 @@
 <br>
 <h2> Instituto Federal da Paraíba
 <br>
-<h3> Felipe Benevides (felipe.benevides0@gmail.com)
+<h3> Felipe Benevides (e-mail: felipe.benevides0@gmail.com)
